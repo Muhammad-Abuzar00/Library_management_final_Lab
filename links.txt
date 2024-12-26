@@ -1,0 +1,50 @@
+Add Author:
+POST /authors/add
+http://localhost:3000/authors/add
+
+Update Author:
+PUT /authors/update/:id
+http://localhost:3000/authors/update/{id}
+
+Delete Author:
+DELETE /authors/delete/:id
+http://localhost:3000/authors/delete/{id}
+
+Fetch All Authors:
+GET /authors
+http://localhost:3000/authors
+
+Routes for Books:
+Add Book:
+POST /books/add
+http://localhost:3000/books/add
+
+Update Book:
+PUT /books/update/:id
+http://localhost:3000/books/update/{id}
+
+Delete Book:
+DELETE /books/delete/:id
+http://localhost:3000/books/delete/{id}
+
+Fetch All Books:
+GET /books/all
+http://localhost:3000/books/all
+
+Routes for Borrowers:
+Add Borrower:
+POST /borrowers/add
+http://localhost:3000/borrowers/add
+
+Update Borrower:
+PUT /borrowers/update/:id
+http://localhost:3000/borrowers/update/{id}
+
+Delete Borrower:
+DELETE /borrowers/delete/:id
+http://localhost:3000/borrowers/delete/{id}
+
+Fetch All Borrowers:
+GET /borrowers
+http://localhost:3000/borrowers
+
