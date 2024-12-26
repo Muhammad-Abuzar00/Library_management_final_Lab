@@ -1,0 +1,53 @@
+{
+  "authors": [
+    {
+      "name": "J.K. Rowling",
+      "email": "jk.rowling@example.com"
+    },
+    {
+      "name": "George R.R. Martin",
+      "email": "george.martin@example.com"
+    },
+    {
+      "name": "Agatha Christie",
+      "email": "agatha.christie@example.com"
+    }
+  ],
+  "books": [
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "isbn": "978-0439708180",
+      "availableCopies": 5
+    },
+    {
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "isbn": "978-0553103540",
+      "availableCopies": 3
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "isbn": "978-0062693662",
+      "availableCopies": 4
+    }
+  ],
+  "borrowers": [
+    {
+      "name": "Alice Johnson",
+      "membershipType": "Standard",
+      "borrowedBooks": 2
+    },
+    {
+      "name": "Bob Smith",
+      "membershipType": "Premium",
+      "borrowedBooks": 1
+    },
+    {
+      "name": "Charlie Davis",
+      "membershipType": "Standard",
+      "borrowedBooks": 0
+    }
+  ]
+}
