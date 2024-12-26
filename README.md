@@ -1,0 +1,2 @@
+# Library_management_final_Lab
+This Library Management System is a web-based application that allows users to manage authors, books, and borrowers in a library. It provides basic functionalities such as adding, updating, viewing, and deleting authors, books, and borrowers. The system is built with Node.js, Express.js, and MongoDB for the backend, and a simple HTML, CSS, and JavaScript frontend for user interaction. The project aims to streamline library operations by providing an easy-to-use interface for managing library data efficiently.
